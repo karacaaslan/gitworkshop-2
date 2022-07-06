@@ -1,0 +1,2 @@
+new test.2 file new lines
+new line added
